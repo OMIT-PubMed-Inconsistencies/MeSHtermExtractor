@@ -1,0 +1,53 @@
+<root>
+	<PMID Version="1">22711889</PMID>
+	<Summary>
+		1: Biswas A, Meissner TB, Kawai T, Kobayashi KS. Cutting edge: impaired MHC classI expression in mice deficient for Nlrc5/class I transactivator. J Immunol. 2012 Jul 15;189(2):516-20. doi: 10.4049/jimmunol.1200064. Epub 2012 Jun 18. PubMedPMID: 22711889; PubMed Central PMCID: PMC3578426.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018920">Coculture Techniques</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006183">H-2 Antigens</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D047908">Intracellular Signaling Peptides and Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000172">deficiency</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008088">Listeriosis</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D057507">Mice, 129 Strain</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018345">Mice, Knockout</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008822">Mice, Transgenic</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015534">Trans-Activators</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000172">deficiency</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

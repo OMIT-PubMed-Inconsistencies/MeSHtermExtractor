@@ -1,0 +1,63 @@
+<root>
+	<PMID Version="1">24768641</PMID>
+	<Summary>
+		1: Dere E, Winkler D, Ritter C, Ronnenberg A, Poggi G, Patzig J, Gernert M,Müller C, Nave KA, Ehrenreich H, Werner HB. Gpm6b deficiency impairs sensorimotorgating and modulates the behavioral response to a 5-HT2A/C receptor agonist.Behav Brain Res. 2015 Jan 15;277:254-63. doi: 10.1016/j.bbr.2014.04.021. Epub2014 Apr 22. PubMed PMID: 24768641.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001007">Anxiety</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001522">Behavior, Animal</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008562">Membrane Glycoproteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000172">deficiency</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018345">Mice, Knockout</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009419">Nerve Tissue Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000172">deficiency</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D044402">Receptor, Serotonin, 5-HT2A</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D044405">Receptor, Serotonin, 5-HT2C</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D055139">Sensory Gating</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D058826">Serotonin 5-HT2 Receptor Agonists</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D050486">Serotonin Plasma Membrane Transport Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

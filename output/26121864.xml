@@ -1,0 +1,44 @@
+<root>
+	<PMID Version="1">26121864</PMID>
+	<Summary>
+		1: Peng J, Hu Q, Liu WP, Liu SL, Wang H. [Expression of USP9X in Non-small CellLung Cancer and Its Clinical Significance]. Sichuan Da Xue Xue Bao Yi Xue Ban.2015 May;46(3):413-6. Chinese. PubMed PMID: 26121864.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002289">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008207">Lymphatic Metastasis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016019">Survival Analysis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D043222">Ubiquitin Thiolesterase</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015854">Up-Regulation</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

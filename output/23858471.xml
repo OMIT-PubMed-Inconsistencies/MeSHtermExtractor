@@ -1,0 +1,63 @@
+<root>
+	<PMID Version="1">23858471</PMID>
+	<Summary>
+		1: Chan CK, Lindau P, Jiang W, Chen JY, Zhang LF, Chen CC, Seita J, Sahoo D, Kim JB, Lee A, Park S, Nag D, Gong Y, Kulkarni S, Luppen CA, Theologis AA, Wan DC,DeBoer A, Seo EY, Vincent-Tompkins JD, Loh K, Walmsley GG, Kraft DL, Wu JC,Longaker MT, Weissman IL. Clonal precursor of bone, cartilage, and hematopoietic niche stromal cells. Proc Natl Acad Sci U S A. 2013 Jul 30;110(31):12643-8. doi: 10.1073/pnas.1310212110. Epub 2013 Jul 15. PubMed PMID: 23858471; PubMed Central PMCID: PMC3732968.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000943">Antigens, Differentiation</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001842">Bone and Bones</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002356">Cartilage</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016207">Cytokines</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005786">Gene Expression Regulation</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006410">Hematopoiesis</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006412">Hematopoietic Stem Cells</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008822">Mice, Transgenic</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D055153">Stem Cell Niche</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017154">Stromal Cells</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

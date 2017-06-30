@@ -1,0 +1,84 @@
+<root>
+	<PMID Version="1">23863968</PMID>
+	<Summary>
+		1: Tang Z, Kim A, Masuch T, Park K, Weng H, Wetzel C, Dong X. Pirt functions asan endogenous regulator of TRPM8. Nat Commun. 2013;4:2179. doi:10.1038/ncomms3179. PubMed PMID: 23863968; PubMed Central PMCID: PMC3748931.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001522">Behavior, Animal</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002118">Calcium</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002352">Carrier Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D003080">Cold Temperature</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005073">Evoked Potentials, Somatosensory</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005727">Ganglia, Spinal</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005786">Gene Expression Regulation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D057809">HEK293 Cells</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008565">Membrane Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000172">deficiency</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008610">Menthol</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018345">Mice, Knockout</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009475">Neurons, Afferent</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D055696">Olfactory Perception</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D058748">Pain Perception</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D050053">TRPM Cation Channels</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

@@ -1,0 +1,54 @@
+<root>
+	<PMID Version="1">20368616</PMID>
+	<Summary>
+		1: Barr AR, Kilmartin JV, Gergely F. CDK5RAP2 functions in centrosome to spindle pole attachment and DNA damage response. J Cell Biol. 2010 Apr 5;189(1):23-39.doi: 10.1083/jcb.200912163. PubMed PMID: 20368616; PubMed Central PMCID:PMC2854379.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D034961">Antigens, Nuclear</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002453">Cell Cycle</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018385">Centrosome</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002645">Chickens</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004249">DNA Damage</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006367">HeLa Cells</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D047908">Intracellular Signaling Peptides and Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009419">Nerve Tissue Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008941">Spindle Apparatus</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

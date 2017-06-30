@@ -1,0 +1,81 @@
+<root>
+	<PMID Version="1">20503261</PMID>
+	<Summary>
+		1: Glaesner W, Vick AM, Millican R, Ellis B, Tschang SH, Tian Y, Bokvist K,Brenner M, Koester A, Porksen N, Etgen G, Bumol T. Engineering andcharacterization of the long-acting glucagon-like peptide-1 analogue LY2189265,an Fc fusion protein. Diabetes Metab Res Rev. 2010 May;26(4):287-96. doi:10.1002/dmrr.1080. PubMed PMID: 20503261.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D003924">Diabetes Mellitus, Type 2</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017930">Genes, Reporter</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004763">Glucagon-Like Peptides</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000031">analogs &amp;amp; derivatives</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007141">Immunoglobulin Fc Fragments</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D054795">Incretins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007328">Insulin</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000557">secretion</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007515">Islets of Langerhans</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000557">secretion</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008252">Macaca fascicularis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008565">Membrane Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D024101">Mitochondrial Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015202">Protein Engineering</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017207">Rats, Sprague-Dawley</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018027">Receptors, Glucagon</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000819">agonists</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011993">Recombinant Fusion Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001618">beta-Lactamases</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

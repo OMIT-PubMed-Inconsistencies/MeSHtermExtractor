@@ -1,0 +1,67 @@
+<root>
+	<PMID Version="1">24769729</PMID>
+	<Summary>
+		1: Lu Z, Yang H, Sutton MN, Yang M, Clarke CH, Liao WS, Bast RC Jr. ARHI (DIRAS3)induces autophagy in ovarian cancer cells by downregulating the epidermal growth factor receptor, inhibiting PI3K and Ras/MAP signaling and activating theFOXo3a-mediated induction of Rab7. Cell Death Differ. 2014 Aug;21(8):1275-89.doi: 10.1038/cdd.2014.48. Epub 2014 Apr 25. PubMed PMID: 24769729; PubMed CentralPMCID: PMC4085535.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001343">Autophagy</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015536">Down-Regulation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051858">Forkhead Transcription Factors</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D020935">MAP Kinase Signaling System</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018613">Microscopy, Confocal</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010051">Ovarian Neoplasms</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D019869">Phosphatidylinositol 3-Kinases</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp;amp; inhibitors</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010766">Phosphorylation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011958">Receptor, Epidermal Growth Factor</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014162">Transfection</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020691">rab GTP-Binding Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020741">rho GTP-Binding Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

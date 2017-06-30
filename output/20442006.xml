@@ -1,0 +1,32 @@
+<root>
+	<PMID Version="1">20442006</PMID>
+	<Summary>
+		1: Topol I, Collins J, Nemukhin A. Modeling spectral tuning in monomeric tealfluorescent protein mTFP1. Biophys Chem. 2010 Jul;149(3):78-82. doi:10.1016/j.bpc.2010.04.002. Epub 2010 Apr 10. PubMed PMID: 20442006; PubMedCentral PMCID: PMC2875285.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D019943">Amino Acid Substitution</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D003198">Computer Simulation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D049452">Green Fluorescent Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D008958">Models, Molecular</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016297">Mutagenesis, Site-Directed</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017434">Protein Structure, Tertiary</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011789">Quantum Theory</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

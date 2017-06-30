@@ -1,0 +1,86 @@
+<root>
+	<PMID Version="1">25320245</PMID>
+	<Summary>
+		1: Umezu T, Tadokoro H, Azuma K, Yoshizawa S, Ohyashiki K, Ohyashiki JH. ExosomalmiR-135b shed from hypoxic multiple myeloma cells enhances angiogenesis bytargeting factor-inhibiting HIF-1. Blood. 2014 Dec 11;124(25):3748-57. doi:10.1182/blood-2014-05-576116. Epub 2014 Oct 15. PubMed PMID: 25320245; PubMedCentral PMCID: PMC4263983.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020413">3' Untranslated Regions</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001808">Blood Vessels</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000254">growth &amp;amp; development</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015153">Blotting, Western</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015687">Cell Hypoxia</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D055354">Exosomes</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000648">ultrastructure</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020869">Gene Expression Profiling</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D055785">Gene Knockdown Techniques</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D061307">Human Umbilical Vein Endothelial Cells</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008156">Luciferases</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D035683">MicroRNAs</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D046529">Microscopy, Electron, Transmission</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006899">Mixed Function Oxygenases</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009101">Multiple Myeloma</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000098">blood supply</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009389">Neovascularization, Pathologic</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020411">Oligonucleotide Array Sequence Analysis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012097">Repressor Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

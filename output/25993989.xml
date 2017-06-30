@@ -1,0 +1,56 @@
+<root>
+	<PMID Version="1">25993989</PMID>
+	<Summary>
+		1: Cheung CT, Bendris N, Paul C, Hamieh A, Anouar Y, Hahne M, Blanchard JM,Lemmers B. Cyclin A2 modulates EMT via β-catenin and phospholipase C pathways.Carcinogenesis. 2015 Aug;36(8):914-24. doi: 10.1093/carcin/bgv069. Epub 2015 May 19. PubMed PMID: 25993989.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017868">Cyclic AMP-Dependent Protein Kinases</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D056751">Cyclin A2</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D058750">Epithelial-Mesenchymal Transition</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D057809">HEK293 Cells</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020935">MAP Kinase Signaling System</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008321">Mammary Glands, Animal</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010738">Type C Phospholipases</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D060449">Wnt Signaling Pathway</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051176">beta Catenin</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

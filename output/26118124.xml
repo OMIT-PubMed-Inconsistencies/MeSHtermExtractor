@@ -1,0 +1,49 @@
+<root>
+	<PMID Version="1">26118124</PMID>
+	<Summary>
+		1: Liu X, Ma T, Wang H, Sheng Z, Dou X, Wang K, Li Z, Pan Z, Chang G, Chen G.Up-regulation of NLRC5 and NF-κB signaling pathway in carrier chickens challengedwith Salmonella enterica Serovar Pullorum at different persistence periods.Indian J Biochem Biophys. 2015 Apr;52(2):132-9. PubMed PMID: 26118124.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016516">CD4-CD8 Ratio</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002645">Chickens</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000382">microbiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017931">DNA Primers</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D047908">Intracellular Signaling Peptides and Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016328">NF-kappa B</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020133">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D019779">Salmonella enterica</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000472">pathogenicity</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D015398">Signal Transduction</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D015854">Up-Regulation</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

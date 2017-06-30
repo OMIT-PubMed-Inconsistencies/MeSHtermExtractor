@@ -1,0 +1,29 @@
+<root>
+	<PMID Version="1">25660456</PMID>
+	<Summary>
+		1: Zhong Y, Shen H, Wang Y, Yang Y, Yang P, Fang S. Identification of ERADcomponents essential for dislocation of the null Hong Kong variant ofα-1-antitrypsin (NHK). Biochem Biophys Res Commun. 2015 Mar 6;458(2):424-8. doi: 10.1016/j.bbrc.2015.01.133. Epub 2015 Feb 7. PubMed PMID: 25660456.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004721">Endoplasmic Reticulum</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D060746">Endoplasmic Reticulum-Associated Degradation</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006367">HeLa Cells</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D006723">Hong Kong</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000515">alpha 1-Antitrypsin</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

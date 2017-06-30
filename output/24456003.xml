@@ -1,0 +1,53 @@
+<root>
+	<PMID Version="1">24456003</PMID>
+	<Summary>
+		1: Xu M, Wu X, Li Y, Yang X, Hu J, Zheng M, Tian J. CITED2 mutation andmethylation in children with congenital heart disease. J Biomed Sci. 2014 Jan24;21:7. doi: 10.1186/1423-0127-21-7. PubMed PMID: 24456003; PubMed CentralPMCID: PMC3917535.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D019175">DNA Methylation</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004268">DNA-Binding Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006330">Heart Defects, Congenital</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012097">Repressor Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015534">Trans-Activators</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

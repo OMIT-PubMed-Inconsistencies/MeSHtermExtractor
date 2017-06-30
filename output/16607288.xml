@@ -1,0 +1,42 @@
+<root>
+	<PMID Version="1">16607288</PMID>
+	<Summary>
+		1: Hergovich A, Stegert MR, Schmitz D, Hemmings BA. NDR kinases regulateessential cell processes from yeast to humans. Nat Rev Mol Cell Biol. 2006Apr;7(4):253-64. Review. PubMed PMID: 16607288.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D015971">Gene Expression Regulation, Enzymologic</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D008938">Mitosis</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009474">Neurons</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017346">Protein-Serine-Threonine Kinases</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012441">Saccharomyces cerevisiae</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

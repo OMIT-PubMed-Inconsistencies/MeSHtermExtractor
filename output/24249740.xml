@@ -1,0 +1,76 @@
+<root>
+	<PMID Version="1">24249740</PMID>
+	<Summary>
+		1: Zhang L, Choi HJ, Estrada K, Leo PJ, Li J, Pei YF, Zhang Y, Lin Y, Shen H, LiuYZ, Liu Y, Zhao Y, Zhang JG, Tian Q, Wang YP, Han Y, Ran S, Hai R, Zhu XZ, Wu S, Yan H, Liu X, Yang TL, Guo Y, Zhang F, Guo YF, Chen Y, Chen X, Tan L, Zhang L,Deng FY, Deng H, Rivadeneira F, Duncan EL, Lee JY, Han BG, Cho NH, Nicholson GC, McCloskey E, Eastell R, Prince RL, Eisman JA, Jones G, Reid IR, Sambrook PN,Dennison EM, Danoy P, Yerges-Armstrong LM, Streeten EA, Hu T, Xiang S, PapasianCJ, Brown MA, Shin CS, Uitterlinden AG, Deng HW. Multistage genome-wideassociation meta-analyses identified two new loci for bone mineral density. HumMol Genet. 2014 Apr 1;23(7):1923-33. doi: 10.1093/hmg/ddt575. Epub 2013 Nov 17.PubMed PMID: 24249740; PubMed Central PMCID: PMC3943521.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015519">Bone Density</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001842">Bone and Bones</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D057167">Claudins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005272">Femur Neck</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015870">Gene Expression</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D055106">Genome-Wide Association Study</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006615">Hip</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008159">Lumbar Vertebrae</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010010">Osteoclasts</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010012">Osteogenesis</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015676">Osteonectin</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010024">Osteoporosis</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

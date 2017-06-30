@@ -1,0 +1,76 @@
+<root>
+	<PMID Version="1">24445959</PMID>
+	<Summary>
+		1: Li L, Xu T, Huang C, Peng Y, Li J. NLRC5 mediates cytokine secretion inRAW264.7 macrophages and modulated by the JAK2/STAT3 pathway. Inflammation. 2014 Jun;37(3):835-47. doi: 10.1007/s10753-013-9804-y. PubMed PMID: 24445959.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016207">Cytokines</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000557">secretion</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015536">Down-Regulation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004791">Enzyme Inhibitors</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015850">Interleukin-6</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000557">secretion</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D047908">Intracellular Signaling Peptides and Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D053614">Janus Kinase 2</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp;amp; inhibitors</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008070">Lipopolysaccharides</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008264">Macrophages</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D034622">RNA Interference</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D034741">RNA, Small Interfering</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D050796">STAT3 Transcription Factor</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp;amp; inhibitors</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014409">Tumor Necrosis Factor-alpha</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000557">secretion</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020032">Tyrphostins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

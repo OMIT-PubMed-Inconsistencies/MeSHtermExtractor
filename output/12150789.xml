@@ -1,0 +1,43 @@
+<root>
+	<PMID Version="1">12150789</PMID>
+	<Summary>
+		1: Garda AL, Puelles L, Rubenstein JL, Medina L. Expression patterns of Wnt8b andWnt7b in the chicken embryonic brain suggest a correlation with forebrainpatterning centers and morphogenesis. Neuroscience. 2002;113(3):689-98. PubMedPMID: 12150789.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D001923">Brain Chemistry</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002642">Chick Embryo</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D018507">Gene Expression Regulation, Developmental</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017403">In Situ Hybridization</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016548">Prosencephalon</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011506">Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011518">Proto-Oncogene Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051153">Wnt Proteins</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D029961">Zebrafish Proteins</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

@@ -1,0 +1,26 @@
+<root>
+	<PMID Version="1">25178389</PMID>
+	<Summary>
+		1: Walther T, Létisse F, Peyriga L, Alkim C, Liu Y, Lardenois A, Martin-Yken H,Portais JC, Primig M, François J. Developmental stage dependent metabolicregulation during meiotic differentiation in budding yeast. BMC Biol. 2014 Sep2;12:60. doi: 10.1186/s12915-014-0060-x. PubMed PMID: 25178389; PubMed CentralPMCID: PMC4176597.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D015966">Gene Expression Regulation, Fungal</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D008540">Meiosis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D055442">Metabolome</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012441">Saccharomyces cerevisiae</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000254">growth &amp;amp; development</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D029701">Saccharomyces cerevisiae Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

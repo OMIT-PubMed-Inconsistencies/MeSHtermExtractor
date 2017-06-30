@@ -1,0 +1,74 @@
+<root>
+	<PMID Version="1">18706910</PMID>
+	<Summary>
+		1: Santiveri CM, Lechtenberg BC, Allen MD, Sathyamurthy A, Jaulent AM, Freund SM,Bycroft M. The malignant brain tumor repeats of human SCML2 bind to peptidescontaining monomethylated lysine. J Mol Biol. 2008 Oct 24;382(5):1107-12. doi:10.1016/j.jmb.2008.07.081. Epub 2008 Aug 3. PubMed PMID: 18706910.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001665">Binding Sites</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004268">DNA-Binding Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D044127">Epigenesis, Genetic</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006657">Histones</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D066298">In Vitro Techniques</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007700">Kinetics</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008024">Ligands</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008239">Lysine</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000031">analogs &amp;amp; derivatives</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008745">Methylation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008958">Models, Molecular</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D019906">Nuclear Magnetic Resonance, Biomolecular</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010455">Peptides</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D063146">Polycomb-Group Proteins</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011485">Protein Binding</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011487">Protein Conformation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020449">Repetitive Sequences, Amino Acid</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014157">Transcription Factors</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

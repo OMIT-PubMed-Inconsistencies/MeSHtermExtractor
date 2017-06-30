@@ -1,0 +1,53 @@
+<root>
+	<PMID Version="1">19136465</PMID>
+	<Summary>
+		1: Lu Y, Xiao J, Lin H, Bai Y, Luo X, Wang Z, Yang B. A single anti-microRNAantisense oligodeoxyribonucleotide (AMO) targeting multiple microRNAs offers animproved approach for microRNA interference. Nucleic Acids Res. 2009Feb;37(3):e24. doi: 10.1093/nar/gkn1053. Epub 2009 Jan 9. PubMed PMID: 19136465; PubMed Central PMCID: PMC2647303.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016147">Genes, Tumor Suppressor</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005818">Genetic Engineering</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007473">Ion Channels</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D035683">MicroRNAs</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp;amp; inhibitors</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020319">Oligodeoxyribonucleotides, Antisense</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D034622">RNA Interference</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

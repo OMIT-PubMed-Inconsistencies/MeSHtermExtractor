@@ -1,0 +1,60 @@
+<root>
+	<PMID Version="1">18387830</PMID>
+	<Summary>
+		1: Wu Y, Xiao J, Wu L, Tian W, Liu L. Expression of glutamyl aminopeptidase byosteogenic induction in rat bone marrow stromal cells. Cell Biol Int. 2008Jul;32(7):748-53. doi: 10.1016/j.cellbi.2008.02.006. Epub 2008 Mar 4. PubMedPMID: 18387830.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001854">Bone Marrow Cells</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002454">Cell Differentiation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D003094">Collagen</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015870">Gene Expression</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D043384">Glutamyl Aminopeptidase</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020411">Oligonucleotide Array Sequence Analysis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010012">Osteogenesis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016133">Polymerase Chain Reaction</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017207">Rats, Sprague-Dawley</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017154">Stromal Cells</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015854">Up-Regulation</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

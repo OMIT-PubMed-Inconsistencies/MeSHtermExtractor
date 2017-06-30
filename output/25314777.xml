@@ -1,0 +1,70 @@
+<root>
+	<PMID Version="1">25314777</PMID>
+	<Summary>
+		1: Gritsaev SV, Martynkevich IS, Ziuzgin IS, Kariagina EV, Martynenko LS, PetrovaEV, Tsybakova NIu, Ivanova MP, Kostroma II, Tiranova SA, Potikhonova NA,Abdulkadyrov KM. [Heterogeneity of acute myeloid leukemia with the translocation t(8;21)(q22;q22)]. Ter Arkh. 2014;86(7):45-52. Russian. PubMed PMID: 25314777.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000971">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp;amp; dosage</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002891">Chromosomes, Human, Pair 21</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002898">Chromosomes, Human, Pair 8</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018572">Disease-Free Survival</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D018740">Genetic Heterogeneity</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D060828">Induction Chemotherapy</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007621">Karyotyping</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015470">Leukemia, Myeloid, Acute</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012008">Recurrence</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014178">Translocation, Genetic</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

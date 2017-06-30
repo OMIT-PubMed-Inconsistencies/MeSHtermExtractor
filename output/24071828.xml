@@ -1,0 +1,35 @@
+<root>
+	<PMID Version="1">24071828</PMID>
+	<Summary>
+		1: Xu Y, Li W, Liu X, Ma H, Tu Z, Dai Y. Analysis of microRNA expression profile by small RNA sequencing in Down syndrome fetuses. Int J Mol Med. 2013Nov;32(5):1115-25. doi: 10.3892/ijmm.2013.1499. Epub 2013 Sep 18. PubMed PMID:24071828.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004314">Down Syndrome</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005333">Fetus</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017423">Sequence Analysis, RNA</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

@@ -1,0 +1,93 @@
+<root>
+	<PMID Version="1">22800537</PMID>
+	<Summary>
+		1: Fujioka-Kobayashi M, Ota MS, Shimoda A, Nakahama K, Akiyoshi K, Miyamoto Y,Iseki S. Cholesteryl group- and acryloyl group-bearing pullulan nanogel todeliver BMP2 and FGF18 for bone tissue engineering. Biomaterials. 2012Oct;33(30):7613-20. doi: 10.1016/j.biomaterials.2012.06.075. Epub 2012 Jul 15.PubMed PMID: 22800537.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000179">Acrylates</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D055396">Bone Morphogenetic Protein 2</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001861">Bone Regeneration</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001842">Bone and Bones</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000530">radiography</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D019070">Cell Lineage</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002784">Cholesterol</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016503">Drug Delivery Systems</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005346">Fibroblast Growth Factors</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005936">Glucans</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010006">Osteoblasts</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011092">Polyethylene Glycols</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011094">Polyethyleneimine</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011994">Recombinant Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012235">Rhodamines</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D023822">Tissue Engineering</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016212">Transforming Growth Factor beta</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014945">Wound Healing</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

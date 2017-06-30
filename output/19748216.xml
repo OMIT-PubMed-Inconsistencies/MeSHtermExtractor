@@ -1,0 +1,80 @@
+<root>
+	<PMID Version="1">19748216</PMID>
+	<Summary>
+		1: Chaer RA, Myers J, Pirt D, Pacella C, Yealy DM, Makaroun MS, Leers SA. Theimpact of a systemwide policy for emergent off-hours venous duplex ultrasoundstudies. Ann Vasc Surg. 2010 Apr;24(3):388-92. doi: 10.1016/j.avsg.2009.06.013.Epub 2009 Sep 11. PubMed PMID: 19748216.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000046">Academic Medical Centers</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D039602">After-Hours Care</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000458">organization &amp;amp; administration</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000656">utilization</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000465">Algorithms</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000925">Anticoagulants</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D019091">Critical Pathways</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004363">Drug Utilization</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D004636">Emergency Service, Hospital</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000458">organization &amp;amp; administration</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000656">utilization</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D006297">Health Services Accessibility</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000458">organization &amp;amp; administration</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006495">Heparin, Low-Molecular-Weight</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010343">Patient Admission</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010351">Patient Discharge</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D010414">Pennsylvania</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D010561">Personnel Staffing and Scheduling</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000458">organization &amp;amp; administration</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015397">Program Evaluation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012017">Referral and Consultation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D018616">Ultrasonography, Doppler, Duplex</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000656">utilization</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014680">Veins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000736">ultrasonography</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020246">Venous Thrombosis</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000736">ultrasonography</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

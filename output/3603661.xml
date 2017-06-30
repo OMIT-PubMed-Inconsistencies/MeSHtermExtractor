@@ -1,0 +1,39 @@
+<root>
+	<PMID Version="1">3603661</PMID>
+	<Summary>
+		1: Tweedy CJ, Kalish RI, Cummings EA, Snyder EL, Tweedy CR. Effect ofpentoxifylline on Wrb antigen. Transfusion. 1987 Jul-Aug;27(4):325-9. PubMedPMID: 3603661.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001789">Blood Group Antigens</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D003298">Coombs Test</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004907">Erythrocyte Deformability</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007519">Isoantigens</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010431">Pentoxifylline</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D013805">Theobromine</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp;amp; derivatives</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

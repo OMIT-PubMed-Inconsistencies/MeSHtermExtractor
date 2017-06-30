@@ -1,0 +1,74 @@
+<root>
+	<PMID Version="1">20351356</PMID>
+	<Summary>
+		1: Siqueira WL, Margolis HC, Helmerhorst EJ, Mendes FM, Oppenheim FG. Evidence ofintact histatins in the in vivo acquired enamel pellicle. J Dent Res. 2010Jun;89(6):626-30. doi: 10.1177/0022034510363384. Epub 2010 Mar 29. PubMed PMID:20351356; PubMed Central PMCID: PMC2873135.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000327">Adsorption</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002118">Calcium</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D003743">Dental Enamel</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D044622">Dental Pellicle</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004591">Electrophoresis, Polyacrylamide Gel</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D054808">Histatins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008852">Microradiography</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010306">Parotid Gland</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000557">secretion</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010710">Phosphates</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012471">Salivary Proteins and Peptides</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012636">Secretory Rate</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D019032">Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017001">Tooth Demineralization</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp;amp; control</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

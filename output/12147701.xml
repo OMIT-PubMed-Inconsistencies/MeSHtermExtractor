@@ -1,0 +1,80 @@
+<root>
+	<PMID Version="1">12147701</PMID>
+	<Summary>
+		1: Tanji C, Yamamoto H, Yorioka N, Kohno N, Kikuchi K, Kikuchi A. A-kinaseanchoring protein AKAP220 binds to glycogen synthase kinase-3beta (GSK-3beta )and mediates protein kinase A-dependent inhibition of GSK-3beta. J Biol Chem.2002 Oct 4;277(40):36955-61. Epub 2002 Jul 29. PubMed PMID: 12147701.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D054758">A Kinase Anchor Proteins</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000595">Amino Acid Sequence</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001665">Binding Sites</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D003994">Bucladesine</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016466">CHO Cells</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002352">Carrier Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006224">Cricetinae</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017868">Cyclic AMP-Dependent Protein Kinases</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D038362">Glycogen Synthase Kinase 3</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp;amp; inhibitors</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007700">Kinetics</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010455">Peptides</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000138">chemical synthesis</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010749">Phosphoprotein Phosphatases</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010766">Phosphorylation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011485">Protein Binding</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020836">Protein Structure, Quaternary</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011994">Recombinant Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014162">Transfection</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

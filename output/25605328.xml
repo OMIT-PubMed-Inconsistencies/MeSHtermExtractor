@@ -1,0 +1,29 @@
+<root>
+	<PMID Version="1">25605328</PMID>
+	<Summary>
+		1: Lecona E, Narendra V, Reinberg D. USP7 cooperates with SCML2 to regulate theactivity of PRC1. Mol Cell Biol. 2015 Apr;35(7):1157-68. doi:10.1128/MCB.01197-14. Epub 2015 Jan 20. PubMed PMID: 25605328; PubMed CentralPMCID: PMC4355532.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D063150">Polycomb Repressive Complex 1</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D063146">Polycomb-Group Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D060066">Protein Interaction Maps</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D043222">Ubiquitin Thiolesterase</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

@@ -1,0 +1,46 @@
+<root>
+	<PMID Version="1">20596566</PMID>
+	<Summary>
+		1: Aye TT, Scholten A, Taouatas N, Varro A, Van Veen TA, Vos MA, Heck AJ.Proteome-wide protein concentrations in the human heart. Mol Biosyst. 2010Oct;6(10):1917-27. doi: 10.1039/c004495d. Epub 2010 Jul 1. PubMed PMID: 20596566.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002853">Chromatography, Liquid</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D030562">Databases, Protein</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006352">Heart Ventricles</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009124">Muscle Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010749">Phosphoprotein Phosphatases</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010766">Phosphorylation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011494">Protein Kinases</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D020543">Proteome</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D053719">Tandem Mass Spectrometry</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

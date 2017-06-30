@@ -1,0 +1,50 @@
+<root>
+	<PMID Version="1">25070747</PMID>
+	<Summary>
+		1: Yi T, Kim WK, Choi JS, Song SY, Han J, Kim JH, Kim WS, Park SG, Lee HJ, ChoYK, Hwang SJ, Song SU, Sung JH. Isolation of adipose-derived stem cells by using a subfractionation culturing method. Expert Opin Biol Ther. 2014Nov;14(11):1551-60. doi: 10.1517/14712598.2014.943661. Epub 2014 Jul 29. PubMedPMID: 25070747.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017667">Adipocytes</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000273">Adipose Tissue</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018929">Cell Culture Techniques</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002454">Cell Differentiation</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D019070">Cell Lineage</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008809">Mice, Inbred C3H</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D013234">Stem Cells</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

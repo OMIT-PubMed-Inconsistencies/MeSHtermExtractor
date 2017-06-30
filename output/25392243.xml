@@ -1,0 +1,36 @@
+<root>
+	<PMID Version="1">25392243</PMID>
+	<Summary>
+		1: Locke JM, Hysenaj G, Wood AR, Weedon MN, Harries LW. Targeted allelicexpression profiling in human islets identifies cis-regulatory effects formultiple variants identified by type 2 diabetes genome-wide association studies. Diabetes. 2015 Apr;64(4):1484-91. doi: 10.2337/db14-0957. Epub 2014 Nov 12.PubMed PMID: 25392243.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D000483">Alleles</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D022981">Allelic Imbalance</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D003924">Diabetes Mellitus, Type 2</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005091">Exons</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020869">Gene Expression Profiling</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D056426">Genetic Loci</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D055106">Genome-Wide Association Study</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D050436">Regulatory Elements, Transcriptional</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

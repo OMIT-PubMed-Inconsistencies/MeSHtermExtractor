@@ -1,0 +1,56 @@
+<root>
+	<PMID Version="1">25245035</PMID>
+	<Summary>
+		1: Lv P, Wang Y, Ma J, Wang Z, Li JL, Hong CS, Zhuang Z, Zeng YX. Inhibition ofprotein phosphatase 2A with a small molecule LB100 radiosensitizes nasopharyngealcarcinoma xenografts by inducing mitotic catastrophe and blocking DNA damagerepair. Oncotarget. 2014 Sep 15;5(17):7512-24. PubMed PMID: 25245035; PubMedCentral PMCID: PMC4202140.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004260">DNA Repair</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005455">Fluorescent Antibody Technique</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015151">Immunoblotting</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008807">Mice, Inbred BALB C</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008938">Mitosis</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009303">Nasopharyngeal Neoplasms</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D054648">Protein Phosphatase 2</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp;amp; inhibitors</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011838">Radiation-Sensitizing Agents</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D023041">Xenograft Model Antitumor Assays</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

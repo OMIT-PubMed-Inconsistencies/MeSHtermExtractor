@@ -1,0 +1,39 @@
+<root>
+	<PMID Version="1">20011630</PMID>
+	<Summary>
+		1: Rio Frio T, Panek S, Iseli C, Di Gioia SA, Kumar A, Gal A, Rivolta C. Ultrahigh throughput sequencing excludes MDH1 as candidate gene for RP28-linkedretinitis pigmentosa. Mol Vis. 2009 Dec 8;15:2627-33. PubMed PMID: 20011630;PubMed Central PMCID: PMC2790479.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D056426">Genetic Loci</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D057166">High-Throughput Screening Assays</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008291">Malate Dehydrogenase</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012174">Retinitis Pigmentosa</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000201">enzymology</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017422">Sequence Analysis, DNA</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

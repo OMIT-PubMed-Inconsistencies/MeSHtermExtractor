@@ -1,0 +1,35 @@
+<root>
+	<PMID Version="1">23116342</PMID>
+	<Summary>
+		1: Hromadníková I, Kotlabová K, Doucha J, Chudoba D, Calda P, Dlouhá K.[Extracellular chromosome 21--derived microRNAs in maternal circulation:evaluation of their diagnostic potential for screening of Down syndrome]. CeskaGynekol. 2012 Oct;77(5):395-402. Czech. PubMed PMID: 23116342.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002891">Chromosomes, Human, Pair 21</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004314">Down Syndrome</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005819">Genetic Markers</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D035683">MicroRNAs</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D011296">Prenatal Diagnosis</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

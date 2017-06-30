@@ -1,0 +1,32 @@
+<root>
+	<PMID Version="1">20152047</PMID>
+	<Summary>
+		1: Bautista F, Zinck JA. Construction of an Yucatec Maya soil classification and comparison with the WRB framework. J Ethnobiol Ethnomed. 2010 Feb 13;6:7. doi:10.1186/1746-4269-6-7. PubMed PMID: 20152047; PubMed Central PMCID: PMC2831876.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000383">Agriculture</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D002965">Classification</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D008800">Mexico</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D055605">Physicochemical Phenomena</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D044382">Population Groups</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D012987">Soil</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D009626">Terminology as Topic</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

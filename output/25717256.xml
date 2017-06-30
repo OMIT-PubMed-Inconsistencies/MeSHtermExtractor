@@ -1,0 +1,86 @@
+<root>
+	<PMID Version="1">25717256</PMID>
+	<Summary>
+		1: Wang JS, Jing CQ, Shan KS, Chen YZ, Guo XB, Cao ZX, Mu LJ, Peng LP, Zhou ML,Li LP. Semaphorin 4D and hypoxia-inducible factor-1α overexpression is related toprognosis in colorectal carcinoma. World J Gastroenterol. 2015 Feb21;21(7):2191-8. doi: 10.3748/wjg.v21.i7.2191. PubMed PMID: 25717256; PubMedCentral PMCID: PMC4326158.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015703">Antigens, CD</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002277">Carcinoma</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000556">secondary</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016009">Chi-Square Distribution</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D003082">Colectomy</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015179">Colorectal Neoplasms</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051795">Hypoxia-Inducible Factor 1, alpha Subunit</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007150">Immunohistochemistry</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D053208">Kaplan-Meier Estimate</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008207">Lymphatic Metastasis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015999">Multivariate Analysis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D039961">Semaphorins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014408">Tumor Markers, Biological</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015854">Up-Regulation</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

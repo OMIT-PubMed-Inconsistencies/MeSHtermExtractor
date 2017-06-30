@@ -1,0 +1,53 @@
+<root>
+	<PMID Version="1">952768</PMID>
+	<Summary>
+		1: Issitt PD, Pavone BG, Goldfinger D, Zwikder H, Issitt CH, Tessel JA, Kroovand SW, Bell CA. Anti-Wrb, and other autoantibodies responsible for positive directantiglobulin tests in 150 individuals. Br J Haematol. 1976 Sep;34(1):5-18. PubMedPMID: 952768.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000744">Anemia, Hemolytic, Autoimmune</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001323">Autoantibodies</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D001789">Blood Group Antigens</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002462">Cell Membrane</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D003298">Coombs Test</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D003429">Cross Reactions</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004912">Erythrocytes</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008951">MNSs Blood-Group System</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008750">Methyldopa</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010641">Phenotype</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

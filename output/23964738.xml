@@ -1,0 +1,68 @@
+<root>
+	<PMID Version="1">23964738</PMID>
+	<Summary>
+		1: van Rijt WG, van Goor H, Ploeg RJ, Leuvenink HG. Erythropoietin-mediatedprotection in kidney transplantation: nonerythropoietic EPO derivatives improvefunction without increasing risk of cardiovascular events. Transpl Int. 2014Mar;27(3):241-8. doi: 10.1111/tri.12174. Epub 2013 Aug 22. Review. PubMed PMID:23964738.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002318">Cardiovascular Diseases</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp;amp; control</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D019610">Cytoprotection</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004921">Erythropoietin</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp;amp; derivatives</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006397">Hematinics</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007668">Kidney</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000098">blood supply</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000293">injuries</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D016030">Kidney Transplantation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D052250">Nitric Oxide Synthase Type III</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009842">Oligopeptides</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017467">Receptors, Erythropoietin</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011994">Recombinant Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015427">Reperfusion Injury</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp;amp; control</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D057170">Translational Medical Research</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

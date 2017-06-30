@@ -1,0 +1,23 @@
+<root>
+	<PMID Version="1">11648998</PMID>
+	<Summary>
+		1: Pirt SJ. Genetic manipulation. Times (Lond). 1976 Oct 19:13. PubMed PMID:11648998.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D004274">DNA, Recombinant</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D033161">Government Regulation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D006113">Great Britain</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D012926">Social Control, Formal</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012927">Social Control, Informal</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

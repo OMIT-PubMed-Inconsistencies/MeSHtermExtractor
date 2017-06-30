@@ -1,0 +1,35 @@
+<root>
+	<PMID Version="1">24719025</PMID>
+	<Summary>
+		1: Diaz Quiroz JF, Tsai E, Coyle M, Sehm T, Echeverri K. Precise control ofmiR-125b levels is required to create a regeneration-permissive environment afterspinal cord injury: a cross-species comparison between salamander and rat. DisModel Mech. 2014 Jun;7(6):601-11. doi: 10.1242/dmm.014837. Epub 2014 Apr 3.PubMed PMID: 24719025; PubMed Central PMCID: PMC4036468.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001369">Axons</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D035683">MicroRNAs</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D012038">Regeneration</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D013045">Species Specificity</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D013119">Spinal Cord Injuries</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014562">Urodela</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

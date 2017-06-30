@@ -1,0 +1,60 @@
+<root>
+	<PMID Version="1">12173028</PMID>
+	<Summary>
+		1: Toutain A, Dessay B, Ronce N, Ferrante MI, Tranchemontagne J, Newbury-Ecob R, Wallgren-Pettersson C, Burn J, Kaplan J, Rossi A, Russo S, Walpole I, Hartsfield JK, Oyen N, Nemeth A, Bitoun P, Trump D, Moraine C, Franco B. Refinement of theNHS locus on chromosome Xp22.13 and analysis of five candidate genes. Eur J HumGenet. 2002 Sep;10(9):516-20. PubMed PMID: 12173028.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002386">Cataract</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000151">congenital</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002874">Chromosome Mapping</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D041321">Chromosomes, Human, X</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000013">Congenital Abnormalities</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005091">Exons</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008040">Genetic Linkage</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005819">Genetic Markers</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008607">Intellectual Disability</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008126">Lod Score</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010375">Pedigree</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D018807">Polymorphism, Single-Stranded Conformational</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011995">Recombination, Genetic</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D013577">Syndrome</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

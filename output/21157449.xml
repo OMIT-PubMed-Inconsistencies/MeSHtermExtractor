@@ -1,0 +1,74 @@
+<root>
+	<PMID Version="1">21157449</PMID>
+	<Summary>
+		1: Papadaki C, Tsaroucha E, Kaklamanis L, Lagoudaki E, Trypaki M, Tryfonidis K,Mavroudis D, Stathopoulos E, Georgoulias V, Souglakos J. Correlation of BRCA1,TXR1 and TSP1 mRNA expression with treatment outcome to docetaxel-basedfirst-line chemotherapy in patients with advanced/metastatic non-small-cell lung cancer. Br J Cancer. 2011 Jan 18;104(2):316-23. doi: 10.1038/sj.bjc.6606027. Epub2010 Dec 14. PubMed PMID: 21157449; PubMed Central PMCID: PMC3031890.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000972">Antineoplastic Agents, Phytogenic</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051778">Basic Helix-Loop-Helix Leucine Zipper Transcription Factors</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002289">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D019398">Genes, BRCA1</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009362">Neoplasm Metastasis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012097">Repressor Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016019">Survival Analysis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D043823">Taxoids</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

@@ -1,0 +1,63 @@
+<root>
+	<PMID Version="1">24670619</PMID>
+	<Summary>
+		1: Shibasaki S, Aoki W, Nomura T, Karasaki M, Sewaki T, Ueda M. Evaluation ofMdh1 protein as an antigenic candidate for a vaccine against candidiasis.Biocontrol Sci. 2014;19(1):51-5. PubMed PMID: 24670619.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000908">Antibodies, Fungal</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002176">Candida albicans</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000201">enzymology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002177">Candidiasis</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp;amp; control</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004353">Drug Evaluation, Preclinical</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005656">Fungal Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp;amp; dosage</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005657">Fungal Vaccines</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp;amp; dosage</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008291">Malate Dehydrogenase</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp;amp; dosage</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014611">Vaccination</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

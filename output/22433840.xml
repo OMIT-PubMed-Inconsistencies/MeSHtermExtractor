@@ -1,0 +1,31 @@
+<root>
+	<PMID Version="1">22433840</PMID>
+	<Summary>
+		1: Kanke M, Kodama Y, Takahashi TS, Nakagawa T, Masukata H. Mcm10 plays anessential role in origin DNA unwinding after loading of the CMG components. EMBO J. 2012 May 2;31(9):2182-94. doi: 10.1038/emboj.2012.68. Epub 2012 Mar 20. PubMedPMID: 22433840; PubMed Central PMCID: PMC3343466.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017493">Antigens, CD45</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018797">Cell Cycle Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002868">Chromosomal Proteins, Non-Histone</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004271">DNA, Fungal</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005656">Fungal Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015003">Yeasts</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

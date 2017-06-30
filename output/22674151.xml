@@ -1,0 +1,31 @@
+<root>
+	<PMID Version="1">22674151</PMID>
+	<Summary>
+		1: Kramer R, Cassola VF, Vieira JW, Khoury HJ, de Oliveira Lira CA, Robson Brown K. Skeletal dosimetry based on µCT images of trabecular bone: update andcomparisons. Phys Med Biol. 2012 Jun 21;57(12):3995-4021. doi:10.1088/0031-9155/57/12/3995. PubMed PMID: 22674151.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001842">Bone and Bones</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000530">radiography</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D019047">Phantoms, Imaging</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011874">Radiometry</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D055114">X-Ray Microtomography</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

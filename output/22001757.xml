@@ -1,0 +1,26 @@
+<root>
+	<PMID Version="1">22001757</PMID>
+	<Summary>
+		1: Chambers JC, Zhang W, Sehmi J, Li X, Wass MN, Van der Harst P, Holm H, SannaS, Kavousi M, Baumeister SE, Coin LJ, Deng G, Gieger C, Heard-Costa NL, Hottenga JJ, Kühnel B, Kumar V, Lagou V, Liang L, Luan J, Vidal PM, Mateo Leach I,O'Reilly PF, Peden JF, Rahmioglu N, Soininen P, Speliotes EK, Yuan X,Thorleifsson G, Alizadeh BZ, Atwood LD, Borecki IB, Brown MJ, Charoen P, Cucca F,Das D, de Geus EJ, Dixon AL, Döring A, Ehret G, Eyjolfsson GI, Farrall M, ForouhiNG, Friedrich N, Goessling W, Gudbjartsson DF, Harris TB, Hartikainen AL, HeathS, Hirschfield GM, Hofman A, Homuth G, Hyppönen E, Janssen HL, Johnson T, Kangas AJ, Kema IP, Kühn JP, Lai S, Lathrop M, Lerch MM, Li Y, Liang TJ, Lin JP, LoosRJ, Martin NG, Moffatt MF, Montgomery GW, Munroe PB, Musunuru K, Nakamura Y,O'Donnell CJ, Olafsson I, Penninx BW, Pouta A, Prins BP, Prokopenko I, Puls R,Ruokonen A, Savolainen MJ, Schlessinger D, Schouten JN, Seedorf U, Sen-ChowdhryS, Siminovitch KA, Smit JH, Spector TD, Tan W, Teslovich TM, Tukiainen T,Uitterlinden AG, Van der Klauw MM, Vasan RS, Wallace C, Wallaschofski H, WichmannHE, Willemsen G, Würtz P, Xu C, Yerges-Armstrong LM; Alcohol Genome-wideAssociation (AlcGen) Consortium; Diabetes Genetics Replication and Meta-analyses (DIAGRAM+) Study; Genetic Investigation of Anthropometric Traits (GIANT)Consortium; Global Lipids Genetics Consortium; Genetics of Liver Disease (GOLD)Consortium; International Consortium for Blood Pressure (ICBP-GWAS);Meta-analyses of Glucose and Insulin-Related Traits Consortium (MAGIC), Abecasis GR, Ahmadi KR, Boomsma DI, Caulfield M, Cookson WO, van Duijn CM, Froguel P,Matsuda K, McCarthy MI, Meisinger C, Mooser V, Pietiläinen KH, Schumann G,Snieder H, Sternberg MJ, Stolk RP, Thomas HC, Thorsteinsdottir U, Uda M, WaeberG, Wareham NJ, Waterworth DM, Watkins H, Whitfield JB, Witteman JC, WolffenbuttelBH, Fox CS, Ala-Korpela M, Stefansson K, Vollenweider P, Völzke H, Schadt EE,Scott J, Järvelin MR, Elliott P, Kooner JS. Genome-wide association studyidentifies loci influencing concentrations of liver enzymes in plasma. Nat Genet.2011 Oct 16;43(11):1131-8. doi: 10.1038/ng.970. PubMed PMID: 22001757; PubMedCentral PMCID: PMC3482372.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D004798">Enzymes</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D055106">Genome-Wide Association Study</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008099">Liver</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000201">enzymology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

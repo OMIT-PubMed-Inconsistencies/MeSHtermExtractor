@@ -1,0 +1,28 @@
+<root>
+	<PMID Version="1">26489145</PMID>
+	<Summary>
+		1: Wang S, Wang W, Zhao J, Zhang F, He S, Guo X. To screen the effective softwarefor analysing gene interactions from Kashin-Beck disease genome profiling pathwayand network, according to the tool of GeneMANIA. Int J Data Min Bioinform.2015;12(1):100-14. PubMed PMID: 26489145.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D004843">Epistasis, Genetic</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D053263">Gene Regulatory Networks</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D015894">Genome, Human</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D057767">Kashin-Beck Disease</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D012984">Software</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

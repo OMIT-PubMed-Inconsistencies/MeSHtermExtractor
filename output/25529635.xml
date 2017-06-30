@@ -1,0 +1,67 @@
+<root>
+	<PMID Version="1">25529635</PMID>
+	<Summary>
+		1: Glubb DM, Maranian MJ, Michailidou K, Pooley KA, Meyer KB, Kar S, Carlebur S, O'Reilly M, Betts JA, Hillman KM, Kaufmann S, Beesley J, Canisius S, Hopper JL,Southey MC, Tsimiklis H, Apicella C, Schmidt MK, Broeks A, Hogervorst FB, van derSchoot CE, Muir K, Lophatananon A, Stewart-Brown S, Siriwanarangsan P, FaschingPA, Ruebner M, Ekici AB, Beckmann MW, Peto J, dos-Santos-Silva I, Fletcher O,Johnson N, Pharoah PD, Bolla MK, Wang Q, Dennis J, Sawyer EJ, Tomlinson I, Kerin MJ, Miller N, Burwinkel B, Marme F, Yang R, Surowy H, Guénel P, Truong T,Menegaux F, Sanchez M, Bojesen SE, Nordestgaard BG, Nielsen SF, Flyger H,González-Neira A, Benitez J, Zamora MP, Arias Perez JI, Anton-Culver H, NeuhausenSL, Brenner H, Dieffenbach AK, Arndt V, Stegmaier C, Meindl A, Schmutzler RK,Brauch H, Ko YD, Brüning T; GENICA Network, Nevanlinna H, Muranen TA, AittomäkiK, Blomqvist C, Matsuo K, Ito H, Iwata H, Tanaka H, Dörk T, Bogdanova NV, Helbig S, Lindblom A, Margolin S, Mannermaa A, Kataja V, Kosma VM, Hartikainen JM;kConFab Investigators, Wu AH, Tseng CC, Van Den Berg D, Stram DO, Lambrechts D,Zhao H, Weltens C, van Limbergen E, Chang-Claude J, Flesch-Janys D, Rudolph A,Seibold P, Radice P, Peterlongo P, Barile M, Capra F, Couch FJ, Olson JE,Hallberg E, Vachon C, Giles GG, Milne RL, McLean C, Haiman CA, Henderson BE,Schumacher F, Le Marchand L, Simard J, Goldberg MS, Labrèche F, Dumont M, Teo SH,Yip CH, See MH, Cornes B, Cheng CY, Ikram MK, Kristensen V; Norwegian BreastCancer Study, Zheng W, Halverson SL, Shrubsole M, Long J, Winqvist R, Pylkäs K,Jukkola-Vuorinen A, Kauppila S, Andrulis IL, Knight JA, Glendon G, Tchatchou S,Devilee P, Tollenaar RA, Seynaeve C, Van Asperen CJ, García-Closas M, Figueroa J,Chanock SJ, Lissowska J, Czene K, Klevebring D, Darabi H, Eriksson M, Hooning MJ,Hollestelle A, Martens JW, Collée JM, Hall P, Li J, Humphreys K, Shu XO, Lu W,Gao YT, Cai H, Cox A, Cross SS, Reed MW, Blot W, Signorello LB, Cai Q, Shah M,Ghoussaini M, Kang D, Choi JY, Park SK, Noh DY, Hartman M, Miao H, Lim WY, TangA, Hamann U, Torres D, Jakubowska A, Lubinski J, Jaworska K, Durda K, SangrajrangS, Gaborieau V, Brennan P, McKay J, Olswold C, Slager S, Toland AE, YannoukakosD, Shen CY, Wu PE, Yu JC, Hou MF, Swerdlow A, Ashworth A, Orr N, Jones M, Pita G,Alonso MR, Álvarez N, Herrero D, Tessier DC, Vincent D, Bacot F, Luccarini C,Baynes C, Ahmed S, Healey CS, Brown MA, Ponder BA, Chenevix-Trench G, ThompsonDJ, Edwards SL, Easton DF, Dunning AM, French JD. Fine-scale mapping of the5q11.2 breast cancer locus reveals at least three independent risk variantsregulating MAP3K1. Am J Hum Genet. 2015 Jan 8;96(1):5-20. doi:10.1016/j.ajhg.2014.11.009. Epub 2014 Dec 18. PubMed PMID: 25529635; PubMedCentral PMCID: PMC4289692.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000483">Alleles</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D002874">Chromosome Mapping</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002895">Chromosomes, Human, Pair 5</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D044469">Continental Population Groups</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D055106">Genome-Wide Association Study</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D060005">Genotyping Techniques</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D048728">MAP Kinase Kinase Kinase 1</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D061986">MCF-7 Cells</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011401">Promoter Regions, Genetic</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D040641">Quantitative Trait Loci</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

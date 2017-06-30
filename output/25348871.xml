@@ -1,0 +1,27 @@
+<root>
+	<PMID Version="1">25348871</PMID>
+	<Summary>
+		1: Duployez N, Willekens C, Marceau-Renaut A, Boudry-Labis E, Preudhomme C.Prognosis and monitoring of core-binding factor acute myeloid leukemia: currentand emerging factors. Expert Rev Hematol. 2015 Feb;8(1):43-56. doi:10.1586/17474086.2014.976551. Epub 2014 Oct 28. Review. PubMed PMID: 25348871.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D050660">Core Binding Factors</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015470">Leukemia, Myeloid, Acute</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

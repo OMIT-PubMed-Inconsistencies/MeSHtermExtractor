@@ -1,0 +1,48 @@
+<root>
+	<PMID Version="1">25635758</PMID>
+	<Summary>
+		1: Ustun C, Marcucci G. Emerging diagnostic and therapeutic approaches in corebinding factor acute myeloid leukaemia. Curr Opin Hematol. 2015 Mar;22(2):85-91. doi: 10.1097/MOH.0000000000000124. Review. PubMed PMID: 25635758.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007446">Chromosome Inversion</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002885">Chromosomes, Human, Pair 16</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002891">Chromosomes, Human, Pair 21</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002898">Chromosomes, Human, Pair 8</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D050660">Core Binding Factors</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015470">Leukemia, Myeloid, Acute</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018365">Neoplasm, Residual</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014178">Translocation, Genetic</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

@@ -1,0 +1,43 @@
+<root>
+	<PMID Version="1">24652003</PMID>
+	<Summary>
+		1: Wang L, Huang J, Jiang M, Diao H, Zhou H, Li X, Chen Q, Jiang Z, Feng H.Adenosylmethionine decarboxylase 1 (AMD1)-mediated mRNA processing and celladhesion activated &amp; inhibited transition mechanisms by different comparisonsbetween chimpanzee and human left hemisphere. Cell Biochem Biophys. 2014Sep;70(1):279-88. doi: 10.1007/s12013-014-9902-y. PubMed PMID: 24652003.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012437">Adenosylmethionine Decarboxylase</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002448">Cell Adhesion</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D019295">Computational Biology</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D002679">Pan troglodytes</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D012323">RNA Processing, Post-Transcriptional</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D013045">Species Specificity</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

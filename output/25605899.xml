@@ -1,0 +1,46 @@
+<root>
+	<PMID Version="1">25605899</PMID>
+	<Summary>
+		1: Hayashi T, Asano Y, Shintani Y, Aoyama H, Kioka H, Tsukamoto O, Hikita M,Shinzawa-Itoh K, Takafuji K, Higo S, Kato H, Yamazaki S, Matsuoka K, Nakano A,Asanuma H, Asakura M, Minamino T, Goto Y, Ogura T, Kitakaze M, Komuro I, SakataY, Tsukihara T, Yoshikawa S, Takashima S. Higd1a is a positive regulator ofcytochrome c oxidase. Proc Natl Acad Sci U S A. 2015 Feb 3;112(5):1553-8. doi:10.1073/pnas.1419767112. Epub 2015 Jan 20. PubMed PMID: 25605899; PubMed Central PMCID: PMC4321285.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000255">Adenosine Triphosphate</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000860">Anoxia</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002417">Cattle</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D003576">Electron Transport Complex IV</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D031541">Fluorescence Resonance Energy Transfer</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051795">Hypoxia-Inducible Factor 1, alpha Subunit</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008928">Mitochondria</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010085">Oxidative Phosphorylation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D011487">Protein Conformation</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

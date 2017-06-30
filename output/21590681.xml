@@ -1,0 +1,71 @@
+<root>
+	<PMID Version="1">21590681</PMID>
+	<Summary>
+		1: Tan W, Sunahori K, Zhao J, Deng Y, Kaufman KM, Kelly JA, Langefeld CD,Williams AH, Comeau ME, Ziegler JT, Marion MC, Bae SC, Lee JH, Lee JS, Chang DM, Song YW, Yu CY, Kimberly RP, Edberg JC, Brown EE, Petri MA, Ramsey-Goldman R,Vilá LM, Reveille JD, Alarcón-Riquelme ME, Harley JB, Boackle SA, Stevens AM,Scofield RH, Merrill JT, Freedman BI, Anaya JM, Criswell LA, Jacob CO, Vyse TJ,Niewold TB, Gaffney PM, Moser KL, Gilkeson GS, Kamen DL, James JA, Grossman JM,Hahn BH, Tsokos GC, Tsao BP, Alarcón GS; BIOLUPUS Network; GENLES Network.Association of PPP2CA polymorphisms with systemic lupus erythematosussusceptibility in multiple ethnic groups. Arthritis Rheum. 2011Sep;63(9):2755-63. doi: 10.1002/art.30452. Erratum in: Arthritis Rheum. 2011Nov;63(11):3521. Alarcón, Graciela S [added]. PubMed PMID: 21590681; PubMedCentral PMCID: PMC3163110.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000483">Alleles</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D044466">Asian Continental Ancestry Group</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D044465">European Continental Ancestry Group</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D056726">Genetic Association Studies</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006239">Haplotypes</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006630">Hispanic Americans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007376">Interleukin-2</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008180">Lupus Erythematosus, Systemic</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D011110">Polymorphism, Genetic</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D054648">Protein Phosphatase 2</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D013601">T-Lymphocytes</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

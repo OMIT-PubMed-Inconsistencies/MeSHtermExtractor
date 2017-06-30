@@ -1,0 +1,36 @@
+<root>
+	<PMID Version="1">23890092</PMID>
+	<Summary>
+		1: Awe JP, Lee PC, Ramathal C, Vega-Crespo A, Durruthy-Durruthy J, Cooper A,Karumbayaram S, Lowry WE, Clark AT, Zack JA, Sebastiano V, Kohn DB, Pyle AD,Martin MG, Lipshutz GS, Phelps PE, Pera RA, Byrne JA. Generation andcharacterization of transgene-free human induced pluripotent stem cells andconversion to putative clinical-grade status. Stem Cell Res Ther. 2013 Jul26;4(4):87. doi: 10.1186/scrt246. PubMed PMID: 23890092; PubMed Central PMCID:PMC3854769.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002454">Cell Differentiation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D065150">Cellular Reprogramming</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015870">Gene Expression</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D023281">Genomics</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D057026">Induced Pluripotent Stem Cells</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D019076">Transgenes</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

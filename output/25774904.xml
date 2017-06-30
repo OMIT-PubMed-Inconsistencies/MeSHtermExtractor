@@ -1,0 +1,27 @@
+<root>
+	<PMID Version="1">25774904</PMID>
+	<Summary>
+		1: Storch TT, Pegoraro C, Finatto T, Quecini V, Rombaldi CV, Girardi CL.Identification of a novel reference gene for apple transcriptional profilingunder postharvest conditions. PLoS One. 2015 Mar 16;10(3):e0120599. doi:10.1371/journal.pone.0120599. eCollection 2015. PubMed PMID: 25774904; PubMedCentral PMCID: PMC4361542.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D019295">Computational Biology</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020869">Gene Expression Profiling</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D018506">Gene Expression Regulation, Plant</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D027845">Malus</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020871">RNA Stability</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D059467">Transcriptome</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

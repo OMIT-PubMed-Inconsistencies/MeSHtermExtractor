@@ -1,0 +1,35 @@
+<root>
+	<PMID Version="1">5720815</PMID>
+	<Summary>
+		1: Pirt SJ. Tissue cell cultivation--general comments. Natl Cancer Inst Monogr.1968 Dec;29:93-6. PubMed PMID: 5720815.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001798">Blood Proteins</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D003470">Culture Media</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D046508">Culture Techniques</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008722">Methods</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014765">Viral Vaccines</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014776">Virus Cultivation</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

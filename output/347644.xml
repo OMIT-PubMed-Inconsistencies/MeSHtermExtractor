@@ -1,0 +1,24 @@
+<root>
+	<PMID Version="1">347644</PMID>
+	<Summary>
+		1: Pavone BG, Pirkola A, Nevanlinna HR, Issitt PD. Demonstration of anti-Wrb in asecond serum containing anti-Ena. Transfusion. 1978 Mar-Apr;18(2):155-9. PubMedPMID: 347644.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000918">Antibody Specificity</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D001789">Blood Group Antigens</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007106">Immune Sera</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D007163">Immunosorbent Techniques</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

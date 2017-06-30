@@ -1,0 +1,67 @@
+<root>
+	<PMID Version="1">15704527</PMID>
+	<Summary>
+		1: Frimm Cde C, Pereira VF, Rodrigues AC, Tsutsui JM, Cúri M. The imbalancebetween coronary reserve and wall stress explains the severity of ventriculardysfunction in hypertension. Clin Cardiol. 2005 Jan;28(1):19-24. PubMed PMID:15704527.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001794">Blood Pressure</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002306">Cardiac Volume</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006352">Heart Ventricles</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000736">ultrasonography</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000736">ultrasonography</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012720">Severity of Illness Index</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D013312">Stress, Physiological</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000736">ultrasonography</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D013318">Stroke Volume</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018487">Ventricular Dysfunction, Left</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000736">ultrasonography</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

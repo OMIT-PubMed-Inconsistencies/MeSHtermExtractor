@@ -1,0 +1,56 @@
+<root>
+	<PMID Version="1">24244368</PMID>
+	<Summary>
+		1: Hartmann S, Döring C, Jakobus C, Rengstl B, Newrzela S, Tousseyn T, Sagaert X,Ponzoni M, Facchetti F, de Wolf-Peeters C, Steidl C, Gascoyne R, Küppers R,Hansmann ML. Nodular lymphocyte predominant hodgkin lymphoma and Tcell/histiocyte rich large B cell lymphoma--endpoints of a spectrum of onedisease? PLoS One. 2013 Nov 11;8(11):e78812. doi: 10.1371/journal.pone.0078812.eCollection 2013. PubMed PMID: 24244368; PubMed Central PMCID: PMC3823948.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020869">Gene Expression Profiling</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D006689">Hodgkin Disease</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D008214">Lymphocytes</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D008224">Lymphoma, Follicular</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D016403">Lymphoma, Large B-Cell, Diffuse</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D016399">Lymphoma, T-Cell</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009363">Neoplasm Proteins</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

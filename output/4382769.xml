@@ -1,0 +1,15 @@
+<root>
+	<PMID Version="1">4382769</PMID>
+	<Summary>
+		1: Pirt SJ. A theory of the mode of growth of fungi in the form of pellets insubmerged culture. Proc R Soc Lond B Biol Sci. 1966 Dec 13;166(1004):369-73.Review. PubMed PMID: 4382769.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005658">Fungi</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000254">growth &amp;amp; development</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008962">Models, Theoretical</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

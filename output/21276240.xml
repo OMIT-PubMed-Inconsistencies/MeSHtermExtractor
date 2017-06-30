@@ -1,0 +1,52 @@
+<root>
+	<PMID Version="1">21276240</PMID>
+	<Summary>
+		1: Roshandel D, Thomson W, Pye SR, Boonen S, Borghs H, Vanderschueren D,Huhtaniemi IT, Adams JE, Ward KA, Bartfai G, Casanueva F, Finn JD, Forti G,Giwercman A, Han TS, Kula K, Lean ME, Pendleton N, Punab M, Silman AJ, Wu FC,Holliday KL, O'Neill TW; EMAS Study Group. A validation of the first genome-wide association study of calcaneus ultrasound parameters in the European Male Ageing Study. BMC Med Genet. 2011 Jan 28;12:19. doi: 10.1186/1471-2350-12-19. PubMedPMID: 21276240; PubMed Central PMCID: PMC3042372.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015502">Absorptiometry, Photon</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000375">Aging</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002111">Calcaneus</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000530">radiography</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000736">ultrasonography</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D005060">Europe</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D055106">Genome-Wide Association Study</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D015810">Linkage Disequilibrium</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

@@ -1,0 +1,39 @@
+<root>
+	<PMID Version="1">23871722</PMID>
+	<Summary>
+		1: Piton A, Redin C, Mandel JL. XLID-causing mutations and associated geneschallenged in light of data from large-scale human exome sequencing. Am J HumGenet. 2013 Aug 8;93(2):368-83. doi: 10.1016/j.ajhg.2013.06.013. Epub 2013 Jul18. Erratum in: Am J Hum Genet. 2013 Aug 8;93(2):406. PubMed PMID: 23871722;PubMed Central PMCID: PMC3738825.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D041321">Chromosomes, Human, X</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D059472">Exome</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D050172">Genes, X-Linked</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D059014">High-Throughput Nucleotide Sequencing</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008607">Intellectual Disability</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D009154">Mutation</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D012744">Sex Ratio</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

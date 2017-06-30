@@ -1,0 +1,19 @@
+<root>
+	<PMID Version="1">7171288</PMID>
+	<Summary>
+		1: Pirt SJ. Maintenance energy: a general model for energy-limited andenergy-sufficient growth. Arch Microbiol. 1982 Dec 3;133(4):300-2. PubMed PMID:7171288.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001419">Bacteria</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000254">growth &amp;amp; development</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D004734">Energy Metabolism</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D008954">Models, Biological</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

@@ -1,0 +1,33 @@
+<root>
+	<PMID Version="1">24670325</PMID>
+	<Summary>
+		1: Zheng K, Xiang Y, Wang Q, Jin F, Chen M, Ma K, Ren Z, Wang Y. Calcium-signalfacilitates herpes simplex virus type 1 nuclear transport through slingshot 1 andcalpain-1 activation. Virus Res. 2014 Aug 8;188:32-7. doi:10.1016/j.virusres.2014.03.016. Epub 2014 Mar 23. PubMed PMID: 24670325.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D021581">Active Transport, Cell Nucleus</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002118">Calcium</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D002154">Calpain</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D018259">Herpesvirus 1, Human</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010749">Phosphoprotein Phosphatases</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D017735">Virus Latency</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

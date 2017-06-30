@@ -1,0 +1,25 @@
+<root>
+	<PMID Version="1">21644365</PMID>
+	<Summary>
+		1: Urban P, Bilecová-Rabajdová M, Stefeková Z, Ostró A, Mareková M. [Overview of potential oncomarkers for detection of early stages of ovarian cancer]. KlinOnkol. 2011;24(2):106-11. Review. Slovak. PubMed PMID: 21644365.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D042241">Early Diagnosis</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010051">Ovarian Neoplasms</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D014408">Tumor Markers, Biological</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

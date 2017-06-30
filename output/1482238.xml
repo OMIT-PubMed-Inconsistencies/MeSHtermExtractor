@@ -1,0 +1,39 @@
+<root>
+	<PMID Version="1">1482238</PMID>
+	<Summary>
+		1: Qirko S, Tase M, Popa Y. [Doppler echocardiographic evaluation of right andleft ventricular filling in hypertension]. Arch Mal Coeur Vaiss. 1992Aug;85(8):1085-9. Review. French. PubMed PMID: 1482238.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D015150">Echocardiography, Doppler</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000736">ultrasonography</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D017379">Hypertrophy, Left Ventricular</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+			<QualifierName MajorTopicYN="N" UI="Q000736">ultrasonography</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D016276">Ventricular Function</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

@@ -1,0 +1,15 @@
+<root>
+	<PMID Version="1">13406219</PMID>
+	<Summary>
+		1: PIRT SJ. The oxygen requirement of growing cultures of an Aerobacter speciesdetermined by means of the continuous culture technique. J Gen Microbiol. 1957Feb;16(1):59-75. PubMed PMID: 13406219.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="Y" UI="D004754">Enterobacter</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D010100">Oxygen</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

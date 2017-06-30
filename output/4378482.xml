@@ -1,0 +1,16 @@
+<root>
+	<PMID Version="1">4378482</PMID>
+	<Summary>
+		1: Pirt SJ. The maintenance energy of bacteria in growing cultures. Proc R SocLond B Biol Sci. 1965 Oct 12;163(991):224-31. PubMed PMID: 4378482.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001419">Bacteria</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000254">growth &amp;amp; development</QualifierName>
+			<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D066298">In Vitro Techniques</DescriptorName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>

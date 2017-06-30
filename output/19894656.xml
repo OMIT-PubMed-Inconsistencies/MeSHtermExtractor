@@ -1,0 +1,35 @@
+<root>
+	<PMID Version="1">19894656</PMID>
+	<Summary>
+		1: Figueiredo D, Azevedo A, Pereira M, de Barros H. Definition of hypertension:the impact of number of visits for blood pressure measurement. Rev Port Cardiol. 2009 Jul-Aug;28(7-8):775-83. PubMed PMID: 19894656.
+	</Summary>
+	<MeshHeadingList>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D001795">Blood Pressure Determination</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp;amp; numerical data</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D003430">Cross-Sectional Studies</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+			<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+	    </MeshHeading>
+	    <MeshHeading>
+			<DescriptorName MajorTopicYN="N" UI="D009819">Office Visits</DescriptorName>
+			<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp;amp; numerical data</QualifierName>
+	    </MeshHeading>
+	</MeshHeadingList>
+</root>
